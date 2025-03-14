@@ -36,6 +36,8 @@ These are the sql tables created
 These are UI design looks
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/4e1f9fa2-94d8-4e9b-bed8-7bd248095574)
+![Screenshot (18)](https://github.com/user-attachments/assets/1c8789cc-52ae-4179-8576-d005d97b0e87)
+
 
 
 
